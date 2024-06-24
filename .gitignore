@@ -1,0 +1,8 @@
+# Virtual env
+.venv
+
+# Ruff
+.ruff_cache
+
+# MacOS
+.DS_Store
